@@ -1,0 +1,43 @@
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/thaonguyen06/eda/project/celltests/and_tran.sch
+
+binary raw file "/home/thaonguyen06/.xschem/simulations/and_tran.raw"
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+No. of Data Columns : 28  
+
+Initial Transient Solution
+--------------------------
+
+Node                                   Voltage
+----                                   -------
+vdd                                        1.8
+vina                                         0
+vinb                                         0
+x1.net1                                    1.8
+x1.net2                              0.0326996
+vout                               2.13105e-07
+vin1#branch                                  0
+vin2#branch                                  0
+vdd#branch                        -3.21791e-10
+
+
+No. of Data Rows : 101802
+
+Total analysis time (seconds) = 2.29831
+
+Total CPU time (seconds) = 6.323 
+
+Total DRAM available = 3753.941 MB.
+DRAM currently available = 2204.930 MB.
+Maximum ngspice program size =  117.113 MB.
+Current ngspice program size =  111.785 MB.
+
+Shared ngspice pages =    6.879 MB.
+Text (code) pages =    5.062 MB.
+Stack = 0 bytes.
+Library pages =  105.953 MB.
+

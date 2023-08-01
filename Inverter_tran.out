@@ -1,0 +1,39 @@
+
+Note: No compatibility mode selected!
+
+
+Circuit: ** sch_path: /home/thaonguyen06/eda/project/celltests/inverter_tran.sch
+
+binary raw file "/home/thaonguyen06/.xschem/simulations/Inverter_tran.raw"
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+No. of Data Columns : 12  
+
+Initial Transient Solution
+--------------------------
+
+Node                                   Voltage
+----                                   -------
+vdd                                        1.8
+vin                                          0
+vout                                       1.8
+vin#branch                                   0
+vdd#branch                        -2.03659e-12
+
+
+No. of Data Rows : 101208
+
+Total analysis time (seconds) = 0.716136
+
+Total CPU time (seconds) = 3.451 
+
+Total DRAM available = 3753.941 MB.
+DRAM currently available = 2101.848 MB.
+Maximum ngspice program size =   97.832 MB.
+Current ngspice program size =   92.344 MB.
+
+Shared ngspice pages =    6.773 MB.
+Text (code) pages =    5.062 MB.
+Stack = 0 bytes.
+Library pages =   86.672 MB.
+
